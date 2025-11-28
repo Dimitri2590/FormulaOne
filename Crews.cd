@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FormulaOne.Entities.Constructor">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAAQAAAAAABQAAQAAAQAAAAACAAACAAACAA=</HashCode>
+      <FileName>Constructor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Crews" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FormulaOne.Entities.Driver">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAAAAQAAAAAEFwIAAACAAAAAAAAAAACABgCAg=</HashCode>
+      <FileName>Driver.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Crews" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FormulaOne.Entities.Crew">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAQAAABAAAAAAIACACAAAgAQAAAAkAAAAAAA=</HashCode>
+      <FileName>Crew.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Constructor" />
+      <Property Name="Driver" />
+      <Property Name="Season" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FormulaOne.Entities.Season">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAQAAIAAAwAAAAAACAACAAAAAA=</HashCode>
+      <FileName>Season.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Crews" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

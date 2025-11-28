@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaOne.Entities", "FormulaOne.Entities.csproj", "{0ED5DDD8-BF2C-04C8-659E-C428FEA7A636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaOne.Test", "..\FormulaOne.Test\FormulaOne.Test.csproj", "{F9364C31-C523-4EEF-A358-1A14A19FF416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED5DDD8-BF2C-04C8-659E-C428FEA7A636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED5DDD8-BF2C-04C8-659E-C428FEA7A636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED5DDD8-BF2C-04C8-659E-C428FEA7A636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED5DDD8-BF2C-04C8-659E-C428FEA7A636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9364C31-C523-4EEF-A358-1A14A19FF416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9364C31-C523-4EEF-A358-1A14A19FF416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9364C31-C523-4EEF-A358-1A14A19FF416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9364C31-C523-4EEF-A358-1A14A19FF416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0C8C891-7A89-4956-972E-010B6878BEF7}
+	EndGlobalSection
+EndGlobal

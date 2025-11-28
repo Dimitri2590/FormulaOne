@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FormulaOne.Entities.Status">
+    <Position X="12.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAEAABAAAAACAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Status.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Results" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FormulaOne.Entities.Race">
+    <Position X="3.75" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAQAAAAAAAABEAACACAAAAAQAAAQkAAAAAAA=</HashCode>
+      <FileName>Race.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Results" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FormulaOne.Entities.Ranking">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAACAAAAAQAAAAAgAAAAAA=</HashCode>
+      <FileName>Ranking.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Results" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FormulaOne.Entities.Result">
+    <Position X="8" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEABAAEEAAAgAABgAAAQAAAAAAAQAAAAACAAgAAAAQA=</HashCode>
+      <FileName>Result.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Race" />
+      <Property Name="Crew" />
+      <Property Name="Rank" />
+      <Property Name="Status" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FormulaOne.Entities.Crew">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAQAAABAAAAAAIACACAAAgAQAAAAkAAAAAAA=</HashCode>
+      <FileName>Crew.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Results" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

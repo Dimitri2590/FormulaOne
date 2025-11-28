@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FormulaOne.Entities.Circuit">
+    <Position X="6" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACIAEAACAAAAAEIEJAAAQAAAoAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Circuit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormulaOne.Entities.Status">
+    <Position X="1.25" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAEAABAAAAACAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormulaOne.Entities.Competition">
+    <Position X="6" Y="5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BEAAAMIEBAAAICAgMAAQChAIAogIgAAAAAQAAAggAIA=</HashCode>
+      <FileName>Competition.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Constructors" />
+      <Property Name="Drivers" />
+      <Property Name="Circuits" />
+      <Property Name="Status" />
+      <Property Name="Rankings" />
+      <Property Name="Seasons" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FormulaOne.Entities.Constructor">
+    <Position X="11.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAAQAAAAAABQAAQAAAQAAAAACAAACAAACAA=</HashCode>
+      <FileName>Constructor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormulaOne.Entities.Driver">
+    <Position X="6" Y="10" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAAAAQAAAAAEFwIAAACAAAAAAAAAAACABgCAg=</HashCode>
+      <FileName>Driver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormulaOne.Entities.Ranking">
+    <Position X="10.75" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAACAAAAAQAAAAAgAAAAAA=</HashCode>
+      <FileName>Ranking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FormulaOne.Entities.Season">
+    <Position X="1.5" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAQAAIAAAwAAAAAACAACAAAAAA=</HashCode>
+      <FileName>Season.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

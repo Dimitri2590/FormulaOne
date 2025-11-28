@@ -1,0 +1,18 @@
+E:\morisot\slam\Training C Sharp\Classes Sans Les Tests\bin\Debug\net8.0\FormulaOne.Entities.deps.json
+E:\morisot\slam\Training C Sharp\Classes Sans Les Tests\bin\Debug\net8.0\FormulaOne.Entities.dll
+E:\morisot\slam\Training C Sharp\Classes Sans Les Tests\bin\Debug\net8.0\FormulaOne.Entities.pdb
+E:\morisot\slam\Training C Sharp\Classes Sans Les Tests\obj\Debug\net8.0\FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\morisot\slam\Training C Sharp\Classes Sans Les Tests\obj\Debug\net8.0\FormulaOne.Entities.AssemblyInfoInputs.cache
+E:\morisot\slam\Training C Sharp\Classes Sans Les Tests\obj\Debug\net8.0\FormulaOne.Entities.AssemblyInfo.cs
+E:\morisot\slam\Training C Sharp\Classes Sans Les Tests\obj\Debug\net8.0\FormulaOne.Entities.csproj.CoreCompileInputs.cache
+E:\morisot\slam\Training C Sharp\Classes Sans Les Tests\obj\Debug\net8.0\FormulaOne.Entities.dll
+E:\morisot\slam\Training C Sharp\Classes Sans Les Tests\obj\Debug\net8.0\refint\FormulaOne.Entities.dll
+E:\morisot\slam\Training C Sharp\Classes Sans Les Tests\obj\Debug\net8.0\FormulaOne.Entities.pdb
+E:\morisot\slam\Training C Sharp\Classes Sans Les Tests\obj\Debug\net8.0\ref\FormulaOne.Entities.dll
+C:\Users\dimit\Documents\CsharpProjects\Classes Sans Les Tests2\obj\Debug\net8.0\FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Documents\CsharpProjects\Classes Sans Les Tests2\obj\Debug\net8.0\FormulaOne.Entities.AssemblyInfoInputs.cache
+C:\Users\dimit\Documents\CsharpProjects\Classes Sans Les Tests2\obj\Debug\net8.0\FormulaOne.Entities.AssemblyInfo.cs
+C:\Users\dimit\Documents\CsharpProjects\Classes Sans Les Tests2\obj\Debug\net8.0\FormulaOne.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Documents\CsharpProjects\Classes Sans Les Tests2\obj\Debug\net8.0\FormulaOne.Entities.dll
+C:\Users\dimit\Documents\CsharpProjects\Classes Sans Les Tests2\obj\Debug\net8.0\refint\FormulaOne.Entities.dll
+C:\Users\dimit\Documents\CsharpProjects\Classes Sans Les Tests2\obj\Debug\net8.0\FormulaOne.Entities.pdb
